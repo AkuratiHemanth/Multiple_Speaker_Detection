@@ -1,6 +1,7 @@
 # Speaker Recognition with Deep Learning
 
-![Project Banner]()
+![Project Banner](![image](https://github.com/AkuratiHemanth/Multiple_Speaker_Detection/assets/129819031/e5e1be82-b923-4cf6-8f8e-3f61dad27879)
+)
 
 ## Table of Contents
 
